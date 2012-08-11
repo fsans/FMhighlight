@@ -4,18 +4,17 @@ FMhighlight
 FileMaker syntax highlight for GeSHi
 
 
-/*************************************************************************************
-filemaker.php
----------------------------------
-Author: Famcesc Sans (fsans@ntwk.es)
-Copyright: (c) 2008 Network BCN Software (http://www.ntwk.es)
-Release Version: 1.0.8.1
-Date Started: 09.01.2008
+*********************************************************************************** 
+ 
+Author: Famcesc Sans (fsans@ntwk.es) 
+Copyright: (c) 2008 Network BCN Software (http://www.ntwk.es) 
+Release Version: 1.0.8.1 
+Date Started: 09.01.2008 
 
-filemaker language file for GeSHi.
+filemaker language file for GeSHi 
 
 
-************************************************************************************
+***********************************************************************************
 
 	   This file is part of GeSHi.
 
@@ -33,4 +32,4 @@ filemaker language file for GeSHi.
 	 along with GeSHi; if not, write to the Free Software
 	 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-***********************************************************************************/
+***********************************************************************************
